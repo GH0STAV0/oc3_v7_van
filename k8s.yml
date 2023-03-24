@@ -13,7 +13,7 @@ spec:
         app: supervisordvan
     spec:
       containers:
-      - image: registry.cloud.okteto.net/test-cindy-cata0nana/van-w0rld:latest
+      - image: registry.cloud.okteto.net/test-cindy-cata0nana/van-img:latest
         name: supervisordvan
 
 ---
